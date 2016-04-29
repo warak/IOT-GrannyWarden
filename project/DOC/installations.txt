@@ -1,0 +1,48 @@
+------------------
+-
+Client Installations   
+-
+------------------
+
+-Install using apt-get
+-SQLite 3
+
+-Python 3
+
+-------------------
+Accelerometer
+-------------------
+-Plugin to I2C ports
+-------------------
+Door sensor
+-------------------
+-Plugin to ports 17 and 26
+-------------------
+Camera
+-------------------
+-Install camera using cameras instructions
+-------------------
+
+Web server
+-------------------
+-Install apache 2
+-Install sqlite 3
+-Install Python 3
+-Drop files to www folder from WEB
+-run server.py
+-read apache documentation for more information
+-------------------
+Running the project
+-------------------
+0) change correct server dns/ip to python/Main/DBC/config.py
+1) Make new user to server
+2) start server using PyCharm(First run needs debug console to insert name)
+3) run gwmain.py (it might boot system at first run)
+4) insert name
+5) shutdown system
+6) install touch screen
+-------------------
+Touch Screen
+-------------------
+-Install touch screen using touch sreens instructions
+-------------------
